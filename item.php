@@ -19,9 +19,9 @@
   <div class="text summary">
     <strong>GPS Location:  </strong><?php echo metadata('item', array(
         'Item Type Metadata', 'GPS'
-    )); ?><a href="https://www.google.com/maps/@<?php echo metadata('item', array(
+    )); ?><br/><a href="https://www.google.com/maps/place/<?php echo metadata('item', array(
         'Item Type Metadata', 'GPS'
-    )); ?>,20z">Go to Google Maps.</a>
+    )); ?>">Go to Google Maps.</a>
   </div>
 
   <div class="text summary">
