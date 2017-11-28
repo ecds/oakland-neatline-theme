@@ -20,10 +20,7 @@
   <header  style="background-color:transparent;">
 
     <!-- Credits. -->
-    <span><a href="<?php echo WEB_ROOT; ?>">&larr; Home</a></span> &bull;
-    <span>Adapted from<a href="https://twitter.com/clured">@clured</a></span>,
-    <span>with <a href="http://omeka.org">Omeka</a></span>
-    <span>and <a href="http://neatline.org">Neatline</a></span> &bull;
+    <span><a href="<?php echo WEB_ROOT; ?>">&larr; Oakland Home</a></span> &bull;
 
   </header>
 
