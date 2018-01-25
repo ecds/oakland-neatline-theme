@@ -20,8 +20,8 @@
   <header  style="background-color:transparent;">
 
     <!-- Credits. -->
-    <span><a href="<?php echo WEB_ROOT; ?>">&larr; Oakland Home</a></span> &bull;
-
+<?php /**    <span><a href="<?php echo WEB_ROOT; ?>">&larr; Oakland Home</a></span> &bull;
+**/ ?>
   </header>
 
   <!-- Content. -->
